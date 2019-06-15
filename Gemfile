@@ -1,7 +1,9 @@
-source 'https://rubygems.org'
-git_source(:github) { |repo| "https://github.com/#{repo}.git" }
+source 'https://rubygems.org',
+git_source(:github) { |repo| "https://github.com/#{repo}.git"}
 
 ruby '2.5.3'
+
+gem 'sprockets-rails', '~> 3.0', '>= 3.0.4'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '~> 5.2.1'
@@ -41,6 +43,7 @@ group :development, :test do
   gem 'byebug', platforms: [:mri, :mingw, :x64_mingw]
 end
 
+
 group :development do
   # Access an interactive console on exception pages or by calling 'console' anywhere in the code.
   gem 'web-console', '>= 3.3.0'
@@ -58,5 +61,21 @@ group :test do
   gem 'chromedriver-helper'
 end
 
+
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
+gem 'jquery-rails'
+
+
+gem 'popper_js', '~> 1.11.1'
+gem 'bootstrap', '4.0.0.alpha6'
+
+source 'https://rails-assets.org' do
+  gem 'rails-assets-tether', '>= 1.3.3'
+end
+
+
+
+
+
+
