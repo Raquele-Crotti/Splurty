@@ -2,12 +2,14 @@
 
 
 
+
 .clear {
   clear: both;
 }
 
 .circle {
     font-weight: bold;
+    font-family: "milkshakeregular", sans-serif;
     font-style: italic;
     position: relative;
     border-radius: 100%;
@@ -18,7 +20,7 @@
     margin: 10px 10px;
     text-align: center;
     color: #FFF;
-    font-size: 10px;
+    font-size: 20px;
     line-height: 16px;
     cursor: pointer;
     transform: rotate(11deg);
@@ -62,4 +64,17 @@ h1 {
 h2 {
   font-family: 'milkshakeregular', sans-serif;
   
+}
+
+.next-quote {
+  font-family: "milkshakeregular", sans-serif;
+  color: #F84342;
+  font-size: 20px;
+}
+
+.footer-blurb {
+  font-family: "Palatino Linotype", Palatino, Palladio, "URW Palladio L", "Book Antiqua", Baskerville, "Bookman Old Style", "Bitstream Charter", "Nimbus Roman No9 L", Garamond, "Apple Garamond", "ITC Garamond Narrow", "New Century Schoolbook", "Century Schoolbook", "Century Schoolbook L", Georgia, serif;
+  font-style: italic;
+  text-align: right;
+  font-size: 10px;
 }
