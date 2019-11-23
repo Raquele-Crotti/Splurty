@@ -1,5 +1,20 @@
 # README
 
+#Spurty - Quote Generator Application
+A database-powered quote generator with a mobile-first design. HTML5, CSS Ruby, Rails, Active Record & PostgreSQL, Twitter Bootstrap, Deployment via Heroku.</h3>
+
+## Table of contents
+* [General info](#general-info)
+* [Technologies](#technologies)
+* [Setup](#setup)
+
+## General info
+A spunky first project in UC Berekely's Coding Bootcamp program. Splurty is a fully-functioning web application that generates random quotes from Ruby on Rails database to display on homepage to users. Users are able to contribute their own quotes in a bootstrap modal pop-up form to add to database. App also features well-designed about page, nav bar, footer, hyperlinks and photo of author.</h3>
+
+
+## Technologies 
+    
+## Setup   
 Set up a development environment and start a new project
 <h2>Getting Started</h2>
 -Go to one of the terminals within your coding environment and type the following:
@@ -65,7 +80,7 @@ There will be a form for the user to fill out with form fields author and saying
   @quote = Quote.order("RANDOM()").first
 -Be sure to take the same steps to push app to Heroku.
 
-<h2>Download Bootstrap</h2>
+
 
 
 
