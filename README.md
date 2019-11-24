@@ -17,13 +17,13 @@ A spunky first project in UC Berekely's Coding Bootcamp program. Splurty is a fu
 
 ## Technologies 
 Project is created with:
-* ruby '2.5.3' [Install Ruby on Rails]<https://github.com/university-bootcamp/coding-environment/blob/master/README.md#coding-environment-installation-guide>
+* ruby '2.5.3' [Install Ruby on Rails](https://github.com/university-bootcamp/coding-environment/blob/master/README.md#coding-environment-installation-guide)
 * gem 'rails', '~> 5.2.1'
-* Heroku [Heroku sign up]<https://signup.heroku.com/t/platform?c=70130000001xDpdAAE&gclid=CjwKCAiAzuPuBRAIEiwAkkmOSM8vVAtL7RKLqoIVrshH7VuxMysxD2e1555A3dwyDU4sOSOxy6zujxoCXBIQAvD_BwE>
-* gem 'bootstrap', '~> 4.3', '>= 4.3.1' [Install Bootstrap]<https://github.com/twbs/bootstrap-rubygem>
-* gem 'pg', '>= 0.18', '< 2.0' [Install PostgreSQL]<https://www.ibm.com/cloud/databases-for-postgresql>
-* HTML5 [HTML5]<https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5>
-* CSS [Cascading Style Sheets]<https://www.w3schools.com/html/html_css.asp>
+* Heroku [Heroku sign up](https://signup.heroku.com/t/platform?c=70130000001xDpdAAE&gclid=CjwKCAiAzuPuBRAIEiwAkkmOSM8vVAtL7RKLqoIVrshH7VuxMysxD2e1555A3dwyDU4sOSOxy6zujxoCXBIQAvD_BwE>
+* gem 'bootstrap', '~> 4.3', '>= 4.3.1' [Install Bootstrap](https://github.com/twbs/bootstrap-rubygem)
+* gem 'pg', '>= 0.18', '< 2.0' [Install PostgreSQL](https://www.ibm.com/cloud/databases-for-postgresql)
+* HTML5 [HTML5](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
+* CSS [Cascading Style Sheets](https://www.w3schools.com/html/html_css.asp)
 
 ## Setup   
 Set up a development environment and start a new project
@@ -141,7 +141,7 @@ This app was created during my time completing UC Berkeley Extension's  Coding B
 ## Contact 
 * [Portfolio](https://www.raquelecrotti.com/)
 * [LinkedIn](https://www.linkedin.com/in/raquele-crotti/)
-* [Github]<https://github.com/Raquele-Crotti>
+* [Github](https://github.com/Raquele-Crotti)
 
 
 
