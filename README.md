@@ -139,8 +139,8 @@ Project is fully-functioning, simple and complete. You can find it delpoyed on h
 This app was created during my time completing UC Berkeley Extension's  Coding Bootcamp Program.
 
 ## Contact 
-* [Portfolio]<https://www.raquelecrotti.com/>
-* [LinkedIn]<https://www.linkedin.com/in/raquele-crotti/>
+* [Portfolio](https://www.raquelecrotti.com/)
+* [LinkedIn](https://www.linkedin.com/in/raquele-crotti/)
 * [Github]<https://github.com/Raquele-Crotti>
 
 
