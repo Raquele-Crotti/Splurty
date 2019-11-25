@@ -1,7 +1,7 @@
 # README
 
 # Spurty - Quote Generator Application
-A database-powered quote generator with a mobile-first design. HTML5, CSS Ruby, Rails, Active Record & PostgreSQL, Twitter Bootstrap, Deployment via Heroku.</h3>
+A database-powered quote generator with a mobile-first design. HTML5, CSS Ruby, Rails, Active Record & PostgreSQL, Twitter Bootstrap, Deployment via Heroku.
 
 ## Table of contents
 * [General info](#general-info)
@@ -12,7 +12,7 @@ A database-powered quote generator with a mobile-first design. HTML5, CSS Ruby, 
 * [Contact](#contact)
 
 ## General info
-A spunky first project in UC Berekely's Coding Bootcamp program. Splurty is a fully-functioning web application that generates random quotes from Ruby on Rails database to display on homepage. Users are able to contribute their own quotes in a bootstrap modal pop-up form to add to database. App also features well-designed about page, nav bar, footer, hyperlinks and photo of author.</h3>
+A spunky first project in UC Berkeley's Coding Bootcamp program. Splurty is a fully-functioning web application that generates random quotes from Ruby on Rails database to display on homepage. Users are able to contribute their own quotes in a bootstrap modal pop-up form to add to database. App also features well-designed about page, nav bar, footer, hyperlinks and photo of author.</h3>
 
 
 ## Technologies 
